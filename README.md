@@ -29,14 +29,14 @@ The analysis presented in this dashboard will empower Acme Technologies to make 
 
 Feel free to explore the dashboard and leverage the insights for HR planning and decision-making.
 
-#### Dashboard Overview
+#### Dashboard Overview:
 The Employee Attrition Analysis Dashboard project using Power BI is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of attrition by gender, salary, job role, education and more.
 
 The dashboard also includes interactive features that allow users to filter and drill down into specific department. This provides HR professionals with a more detailed view of their data, allowing them to identify patterns and trends more easily.
 
 Overall, HR Analytics Dashboard project using Power BI is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Power BI's data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
 
-#### Dashboard Content
+#### Dashboard Content:
 1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees, Average Age, Average Salary and Average Years.
 
 2nd Sheet: Attrition by Gender (Tree Map)
