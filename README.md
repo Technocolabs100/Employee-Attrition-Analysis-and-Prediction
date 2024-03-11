@@ -8,9 +8,7 @@ Acme Corporation, a leading tech company, is facing a significant challenge with
 Acme Corporation has provided historical data on employee demographics, job satisfaction, work environment, performance metrics, and turnover status. This dataset spans the last five years and includes information on employees who have left the company and those who are still currently employed.
 
 ### Technologies Used
-Advanced Excel
-Python
-Power BI
+Advanced Excel, Python and Power BI
 
 #### Business Intelligence (BI) Analysis:
 1. Understanding Problem:
@@ -51,7 +49,7 @@ Overall, HR Analytics Dashboard project using Power BI is an essential tool for 
 
 7th Sheet: Attrition by Salary Range (Vertical Bar Graph)
 
-8th Sheet: Attrition by Years at Comapny (Area Chart)
+8th Sheet: Attrition by Years at Company (Area Chart)
 
 9th Sheet: Attrition by Marital Status (Pie Chart)
 
