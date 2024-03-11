@@ -8,7 +8,7 @@ Acme Corporation, a leading tech company, is facing a significant challenge with
 Acme Corporation has provided historical data on employee demographics, job satisfaction, work environment, performance metrics, and turnover status. This dataset spans the last five years and includes information on employees who have left the company and those who are still currently employed.
 
 ### Technologies Used
-Adavnced Excel
+Advanced Excel
 Python
 Power BI
 
